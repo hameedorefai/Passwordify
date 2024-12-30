@@ -24,8 +24,9 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 <!-- HTML Form to update user -->
 <form method="POST">
     User ID: <input type="number" name="id" required><br>
-    Name: <input type="text" name="name" required><br>
+    Name: <input  type="text" name="name" required><br>
     Email: <input type="email" name="email" required><br>
     Password: <input type="password" name="password" required><br>
     <input type="submit" value="Update User">
+
 </form>

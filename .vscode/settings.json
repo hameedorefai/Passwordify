@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/4695b613-0c0e-4bcd-8f57-72d6bc307bb1/resourceGroups/passwordify_group/providers/Microsoft.Web/sites/passwordify",
+    "appService.deploySubpath": "."
+}
